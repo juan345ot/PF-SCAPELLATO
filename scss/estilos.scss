@@ -13,6 +13,13 @@ body {
     background-color: $background-color;
 }
 
+.img {
+    width: 100%;
+    height: 400px;
+    object-fit:initial;
+}
+
+
 // Estilos de la barra de desplazamiento
 @import "./scrollbar";
 // Navbar
